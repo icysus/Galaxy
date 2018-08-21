@@ -23,8 +23,8 @@
 		right: 0;
 		margin: auto;
 	}
-	#details {
-		/* WEATHER WIDGET */
+	/*#details {
+		 WEATHER WIDGET
 		border-radius: 3px;
 		width: 180px;
 		height: 50px;
@@ -52,14 +52,14 @@
 		padding-left: 2px;
 	}
 	.form {
-		/* SEARCH BAR */
+		 SEARCH BAR
 		position: absolute !important;
 		z-index: 9999 !important;
 		top: 90px !important;
 		right: 0px !important;
 		margin: auto !important;
 		text-align: right;
-	}
+	}*/
 	#image-button {
 		background-image: url("icons/submit.png");
 		background-repeat: no-repeat;
@@ -68,7 +68,7 @@
 		padding: 17px 20px 17px 16px;
 		width: 10px;
 		margin-left: -26px;
-	}
+	}/*
 	input {
 		background: #453744;
 		border: none !important;
@@ -85,7 +85,7 @@
 	input:focus {
 		width: 300px;
 		transition: .3s ease-in-out !important;
-	}
+	}*/
 	#message {
 		color: #FFF;
 		font-size: 56pt;
@@ -137,7 +137,7 @@
 		text-decoration: none;
 		display: block !important;
 		transition: all .3s ease-in-out;
-	} 
+	}
 	.box a:hover {
 		color: inherit;
 	}
@@ -149,7 +149,7 @@
 	.button {
 		/* SIDEBAR BUTTONS */
 		background: transparent;
-		border: none !important;	
+		border: none !important;
 		color: #000;
 		font-family: "Helvetica Rounded" !important;
 		position: absolute;
